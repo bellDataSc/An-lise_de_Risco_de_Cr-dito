@@ -1,14 +1,8 @@
 
-  {
-   "cell_type": "code",
-   "execution_count": 3,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import numpy as np\n",
-    "import pandas as pd\n",
-    "from pathlib import Path\n",
-    "from collections import Counter"
+    import numpy as np\n",
+    import pandas as pd\n",
+    from pathlib import Path\n",
+    from collections import Counter"
    ]
   },
   {
